@@ -1,7 +1,3 @@
---// Report any issues/detections to me
-
-
-
 getgenv().RemoteSpyEnabled = true
 getgenv().Enabled = {
     BindableEvent = false;
